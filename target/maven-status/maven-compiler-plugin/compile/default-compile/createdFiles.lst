@@ -1,0 +1,5 @@
+com\cooperay\redis\spring\CacheKey.class
+com\cooperay\redis\spring\Cacheable.class
+com\cooperay\redis\spring\Cacheable$KeyMode.class
+com\cooperay\redis\spring\CacheableAop.class
+com\cooperay\redis\spring\CacheFlush.class
